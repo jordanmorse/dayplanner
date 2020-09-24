@@ -5,4 +5,10 @@ save them to their schedule. This saves items to local storage. When the page re
 Additionally, time blocks are color coded based on time of day. If the time is in the past the blocks are grey,
 if the time is in the future they are green and the present time block is shown in red.
 
+Repository URL: https://github.com/jordanmorse/dayplanner
+Page URL: https://jordanmorse.github.io/dayplanner/
+
+![top of planner](images/scheduler.png)
+![bottom of planner](images/scheduler2.png)
+
 
